@@ -1,0 +1,24 @@
+{
+  "name": "BPMA — Registro de Ocorrência",
+  "short_name": "BPMA",
+  "description": "Formulário de registro de ocorrências ambientais — BPMA/PMES",
+  "start_url": "/bpma-formulario/",
+  "display": "standalone",
+  "background_color": "#1a5c38",
+  "theme_color": "#1a5c38",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
